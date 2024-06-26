@@ -13,7 +13,11 @@ public class Main {
 
             // Press Shift+F9 to start debugging your code. We have set one breakpoint
             // for you, but you can always add more by pressing Ctrl+F8.
+<<<<<<< HEAD
             System.out.println("i = " + i+"   BC Lode");
+=======
+            System.out.println("i = " + i+"   BC Yo yo ");
+>>>>>>> 63f15017f3d558de04450cb1b4e25d6618093cb2
         }
     }
 }
